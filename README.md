@@ -26,16 +26,16 @@ O jogo acaba quando as cargas de energia estiverem nulas.
 
 ###### Inicial
 
-![image-20210524112858863](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20210524112858863.png)
+![image](https://user-images.githubusercontent.com/80356258/119389399-f7517780-bca1-11eb-9b5d-3657660c12aa.png)
 
 ###### Cenário
 
-![image-20210524112946415](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20210524112946415.png)     
+![image](https://user-images.githubusercontent.com/80356258/119389456-09cbb100-bca2-11eb-91ce-06fb2edb1029.png)     
 
 ###### Disparos 
 
-![image-20210524113140942](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20210524113140942.png)
+![image](https://user-images.githubusercontent.com/80356258/119389513-1bad5400-bca2-11eb-9367-81130ca51e50.png)
 
 ###### Tela Final 
 
-![image-20210524113211608](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20210524113211608.png)
+![image](https://user-images.githubusercontent.com/80356258/119389554-29fb7000-bca2-11eb-8ccb-32be10ef4f6b.png)
